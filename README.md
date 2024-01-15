@@ -1,4 +1,4 @@
-# ChatGLM-Instruct-Tuning
+#ChatGLM3-6B-Tuning
 
 基于清华的 [ChatGLM3-6B](https://github.com/THUDM/ChatGLM3) + Alpaca中文预料part1部分数据集 方式进行finetune.
 
