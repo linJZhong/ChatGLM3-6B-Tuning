@@ -55,6 +55,7 @@ p-tuning2 : bash scripts/finetune-pt2.sh
 # 要先把文件中的 "output/your_model_path"替换为你自己项目中具体的模型path
 python infer.py
 ```
+![9824ed127baac19e6f2c377974543c5](https://github.com/linJZhong/ChatGLM3-6B-Tuning/assets/10718894/567df34b-ce76-40b0-b316-c33b0368ccaa)
 
 ### ToDO
 1、目前模型微调效果，会比原先模型在数据集知识领域回答的要好，但是存在大模型遗忘性缺陷，后续需要对此进行改善
